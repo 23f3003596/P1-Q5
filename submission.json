@@ -1,0 +1,7 @@
+{
+  "prompt": "[REPLACE THIS with your complete final prompt, verbatim — include any negative prompts, style weights, or model parameters]",
+  "model": "[REPLACE THIS with your model name and version, e.g., Midjourney v6.1, DALL·E 3]",
+  "dataset_name": "[REPLACE THIS with the name of your dataset]",
+  "dataset_url": "[REPLACE THIS with the direct URL or full citation to the dataset]",
+  "insight": "[REPLACE THIS with one sentence describing the specific insight you were trying to make visible]"
+}
