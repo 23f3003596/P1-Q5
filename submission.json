@@ -1,7 +1,7 @@
 {
-  "prompt": "[REPLACE THIS with your complete final prompt, verbatim — include any negative prompts, style weights, or model parameters]",
-  "model": "[REPLACE THIS with your model name and version, e.g., Midjourney v6.1, DALL·E 3]",
-  "dataset_name": "[REPLACE THIS with the name of your dataset]",
-  "dataset_url": "[REPLACE THIS with the direct URL or full citation to the dataset]",
-  "insight": "[REPLACE THIS with one sentence describing the specific insight you were trying to make visible]"
+  "prompt": "A sprawling, hyper-detailed architectural monolith. The bottom 90% is a dense, crushing labyrinth of dark, brutalist concrete slums, completely in shadow and suffocatingly squeezed together. Resting precariously on the very tip of a razor-thin spire above the shadows is a tiny, impossibly bright, gleaming golden palace floating in the clouds, illuminated by heavenly sunlight. No text, purely visual metaphor, cinematic lighting, 8k, photorealistic --ar 16:9 --style raw",
+  "model": "Midjourney v6.1",
+  "dataset_name": "World Inequality Report 2022",
+  "dataset_url": "https://wir2022.wid.world/",
+  "insight": "The sheer, crushing weight and disproportionate spatial reality of the bottom 90% supporting the microscopic, untouchable wealth of the top 1%."
 }
